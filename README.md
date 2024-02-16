@@ -2,7 +2,7 @@
   <img src="images/favicon.svg" width="140px" />
 </p>
 
-<h1 align="center">Flutuar</h1>
+<h1 align="center">Fluttuar</h1>
 
 > A travel website landing page
 
